@@ -1,1 +1,1 @@
-Console for the hbnb project.
+The Holberton SE HBnB Project.
